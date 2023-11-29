@@ -3,7 +3,7 @@ solve.ac Profile: https://solved.ac/profile/inseon02
 Tistory Blog: https://inseon.tistory.com/
 
 **👋 Introduction**:  
-Greetings! I'm In-sun(인선), a computer science student currently studying at GIST (Gwangju Institute of Science and Technology). My interest lies in the practical applications of technology, particularly in the realm of artificial intelligence.
+Greetings! I'm In-seon(인선), a computer science student currently studying at GIST (Gwangju Institute of Science and Technology). My interest lies in the practical applications of technology, particularly in the realm of artificial intelligence.
 
 **🧠 AI Focus**:  
 I'm specializing in crafting AI models and developing data pipelines for real-world problem-solving. I enjoy leveraging programming skills to address issues in areas such as politics, law, video, and fashion.
