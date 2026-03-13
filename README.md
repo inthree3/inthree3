@@ -1,7 +1,7 @@
 ![Github-배경-001](https://github.com/inthree3/inthree3/assets/42310616/53a1de5e-e069-43b5-ac69-79eef07c51b2)
 
 </br>
-<h2><p align="center">I am currently Junior of <i>Gwanju Institute of Science and Technology</i>, Korea</p></h2>
+<h2><p align="center">I am currently Senior of <i>Gwanju Institute of Science and Technology</i>, Korea</p></h2>
 
 <h4>👋 Introduction</h4> 
 Greetings! I'm In-seon(인선), a computer science student currently studying at GIST (Gwangju Institute of Science and Technology). My interest lies in the practical applications of technology, particularly in the realm of artificial intelligence.
