@@ -1,32 +1,17 @@
 ![Github-배경-001](https://github.com/inthree3/inthree3/assets/42310616/53a1de5e-e069-43b5-ac69-79eef07c51b2)
 
-</br>
-<h2><p align="center">I am currently Senior of <i>Gwanju Institute of Science and Technology</i>, Korea</p></h2>
+### Hi, I'm Stella (인선) 👋
 
-<h4>👋 Introduction</h4> 
-Greetings! I'm In-seon(인선), a computer science student currently studying at GIST (Gwangju Institute of Science and Technology). My interest lies in the practical applications of technology, particularly in the realm of artificial intelligence.
+- 🔭 Research Engineer at [CHAI, UC Berkeley](https://humancompatible.ai/), working on [MySky](https://bsky.app/profile/greenearth.social)
+- 🏛️ Previously: Software Engineer at the National Assembly of Korea
+- 🎓 EECS @ GIST · Global Computing & Data Science @ UC Berkeley
+- 🧠 Into distributed systems, agent swarms, and recommender systems
 
-<h4>🧠 AI Focus</h4> 
-I'm specializing in crafting AI models and developing data pipelines for real-world problem-solving. I enjoy leveraging programming skills to address issues in areas such as politics, law, video, and fashion.
-
-<h4>🚀 Educational Path</h4>
-As a computer engineering student, my goal is to deepen my understanding of mathematics and explore the foundational structures behind high-level frameworks and libraries.
-
-<h4>💡 Project Experience</h4>  
-With a background in leading startup projects, I've been involved in generating and implementing various ideas. Conducting interviews and understanding different perspectives is a facet of my work that I find rewarding.
-
-<hr/>
-
-<h2><p align="center"> 🔍 Contact Me </p></h2>
-<p align="center">
-  <a href="https://inseon.tistory.me">
-    <img src="https://img.shields.io/badge/TechBlog-EA531E?style=flat-square&logo=Tistory&logoColor=white"&link=https://inseon.tistory.com">
-  </a>
-  <a href="mailto:inseon_ug@gm.gist.ac.kr">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white">
- </a>
+<p>
+  <a href="https://stella.is-a.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/inseonhwang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hwang020612@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
-
   
 <div align="center">
   
